@@ -206,7 +206,7 @@ export default function Form() {
               </div>
               <Svg1 alt className={style.hide} style={{marginLeft:"15%",marginTop:"5%",width:"250px"}}   />
             </div>
-            <p className={style.center}><Button className={style.button}>NEXT</Button></p>
+            <Button className={style.button}><p className={style.center}>NEXT</p></Button>
           </div>
         </div>
       
